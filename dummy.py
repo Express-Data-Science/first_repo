@@ -1,2 +1,2 @@
 import pandas as pd
-import numpy as nps
+import numpy as np #editing import error
